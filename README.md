@@ -1,6 +1,6 @@
 <html>
   <head>
-    <img src="http://strees.site/wp-content/uploads/2021/08/2803618_13b.jpg" width="720" height="640">
+    <img src="" width="720" height="640">
     
 
 
